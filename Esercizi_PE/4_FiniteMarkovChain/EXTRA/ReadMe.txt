@@ -1,0 +1,1 @@
+Il seguente codice guida passo passo alla costruzione di una qualunque Catena di Markov di N stati (una matrice N x N con pesi w_ij); l'evoluzione della catena è resa implementando il Meotodo Metropolis.
